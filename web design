@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</body>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<div class="footer">
+<h2><p>KAPATAGAN NATIONAL HIGH SCHOOL</p><h2>
+</div>
+
+<style>
+
+* {
+    box-sizing: border-box;
+}
+video {
+    width: 100%;
+    height: auto;
+}
+.row:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+    width: 100%;
+}
+@media only screen and (min-width: 600px) {
+    .col-s-1 {width: 8.33%;}
+    .col-s-2 {width: 16.66%;}
+    .col-s-3 {width: 25%;}
+    .col-s-4 {width: 33.33%;}
+    .col-s-5 {width: 41.66%;}
+    .col-s-6 {width: 50%;}
+    .col-s-7 {width: 58.33%;}
+    .col-s-8 {width: 66.66%;}
+    .col-s-9 {width: 75%;}
+    .col-s-10 {width: 83.33%;}
+    .col-s-11 {width: 91.66%;}
+    .col-s-12 {width: 100%;}
+}
+@media only screen and (min-width: 768px) {
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+}
+html {
+    font-family: "Lucida Sans", sans-serif;
+}
+.header {
+    background-color: 		#2E8B57;
+    color: #ffffff;
+    padding: 15px;
+}
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.menu li {
+    padding: 8px;
+    margin-bottom: 7px;
+    background-color :	#008B8B;
+    color: orange;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.menu li:hover {
+    background-color: #0099cc;
+}
+.aside {
+    background-color: 	#2E8B57;
+    padding: 15px;
+    color: black;
+    text-align: center;
+    font-size: 14px;
+    box-shadow: 0 3px 3px gba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.footer {
+    background-color: 	#2F4F4F;
+    color: #ffffff;
+    text-align: center;
+    font-size: 12px;
+    padding: 15px;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+<img src="header.jpg"style="width:970px;height:150px;">
+</div>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+
+<div class="col-3 col-s-3 menu">
+		<ul>
+			<a href="fuc.HTML"><h3><li>HOME</li></h3></a>
+			<a href="ok.HTML"><h3><li>GALLERY</li></h3></a>
+			<a href="spec.html"><h3><li>SPECIALIST</li></h3></a>
+			<a href="gal.HTML"><h3><li>ABOUT SPA</li></h3></a>
+			<a href="spa.HTML"><h3><li>SPA</li></h3></a>
+			<a href="sss.HTML"><h3><li>CONTACT</li></h3></a>
+		</ul>
+</div>
+<div class="col-6 col-s-9">
+  
+  
+  
+  
+  
+      
+<h1> SPECIAL PROGRAM IN THE ARTS</h1>
+<p>Is a Talented School for Those Student That Has Special Skills</p>
+
+<video width="400" controls>
+  <source src="special.mp4" type="video/mp4">
+</video>
+</div>
+
+
+<div class="aside">
+<h2>SPECIALIST SKILL</h2>
+
+<h2>Media Arts</h2>
+<p>Media art is a genre that encompasses artworks created with new media technologies, including digital art, computer graphics, computer animation, virtual art, Internet art, interactive art, video games, computer robotics, 3D printing, cyborg art and art as biotechnology.</p>
+<h2>Visual Arts</h2>
+<p>Visual arts are art forms such as ceramics, drawing, painting, sculpture, printmaking, design, crafts, photography, video, filmmaking, literature, and architecture. Many artistic disciplines (performing arts, conceptual art, textile arts) involve aspects of the visual arts as well as arts of other types.</p>
+<h2>Instruments	</h2>
+<p>Instrument a mechanical tool or implement, esp. one used for delicate or precision work: surgical instruments. 2. a device for producing musical sounds. 3. a means by which something is effected or done; agency: an instrument of government.</p>
+<h2>Vocals</h2>
+<p>Vocal music is a type of music performed by one or more singers, with or without instrumental accompaniment (a cappella), in which singing provides the main focus of the piece.
+</p>
+<h2>Theater Arts</h2>
+<p>Theatre or theater[1] is a collaborative form of fine art that uses live performers, typically actors or actressess, to present the experience of a real or imagined event before a live audience in a specific place, often a stage. The performers may communicate this experience to the audience through combinations of gesture, speech, song, music, and dance. Elements of art, such as painted scenery and stagecraft such as lighting are used to enhance the physicality, presence and immediacy of the experience.</p>
+<h2>Creative Writing</h2>
+<p>Creative writing, a form of artistic expression, draws on the imagination to convey meaning through the use of imagery, narrative, and drama. This is in contrast to analytic or pragmatic forms of writing. This genre includes poetry, fiction (novels, short stories), scripts, screenplays, and creative non-fiction.</p>
+</div>
+</div>
+
+</div>
+
+<div class="footer">
+<h2><p>KAPATAGAN NATIONAL HIGH SCHOOL
+</p><h2>
+</div>
+
+
+</body>
+</html>
